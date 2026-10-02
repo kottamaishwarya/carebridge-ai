@@ -1,0 +1,6 @@
+{
+  "name": "CareCompass",
+  "description": "AI Health Risk Awareness & Care Navigation decision-support platform with deterministic red-flag safety, symptom intake, and caregiver alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
